@@ -1,0 +1,194 @@
+[
+  {
+    "nogsgameid": "bookofradeluxe",
+    "name": "Book of Ra deluxe",
+    "provider": "Novomatic",
+    "gameName": "bookofradeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/bookofradeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=bookofradeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "bookofraclassic",
+    "name": "Book of Ra Classic",
+    "provider": "Novomatic",
+    "gameName": "bookofraclassic",
+    "icon": "https://p247.live/flash/icons/novomaticV2/bookofraclassic.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=bookofraclassic&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "lordoftheocean",
+    "name": "Lord Of The Ocean",
+    "provider": "Novomatic",
+    "gameName": "lordoftheocean",
+    "icon": "https://p247.live/flash/icons/novomaticV2/lordoftheocean.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=lordoftheocean&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "faust",
+    "name": "Faust",
+    "provider": "Novomatic",
+    "gameName": "faust",
+    "icon": "https://p247.live/flash/icons/novomaticV2/faust.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=faust&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "luckyladyscharmdeluxe",
+    "name": "Lucky Lady's Charm Deluxe",
+    "provider": "Novomatic",
+    "gameName": "luckyladyscharmdeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/luckyladyscharmdeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=luckyladyscharmdeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "gryphonsgolddeluxe",
+    "name": "Gryphon's Gold Deluxe",
+    "provider": "Novomatic",
+    "gameName": "gryphonsgolddeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/gryphonsgolddeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=gryphonsgolddeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "redlady",
+    "name": "Red Lady",
+    "provider": "Novomatic",
+    "gameName": "redlady",
+    "icon": "https://p247.live/flash/icons/novomaticV2/redlady.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=redlady&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "sizzlinghotdeluxe",
+    "name": "Sizzling Hot Deluxe",
+    "provider": "Novomatic",
+    "gameName": "sizzlinghotdeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/sizzlinghotdeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=sizzlinghotdeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "dolphinspearldeluxe",
+    "name": "Dolphins Pearl Deluxe",
+    "provider": "Novomatic",
+    "gameName": "dolphinspearldeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/dolphinspearldeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=dolphinspearldeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "dolphinspearlclassic",
+    "name": "Dolphins Pearl Classic",
+    "provider": "Novomatic",
+    "gameName": "dolphinspearlclassic",
+    "icon": "https://p247.live/flash/icons/novomaticV2/dolphinspearlclassic.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=dolphinspearlclassic&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "goldenark",
+    "name": "Golden Ark",
+    "provider": "Novomatic",
+    "gameName": "goldenark",
+    "icon": "https://p247.live/flash/icons/novomaticV2/goldenark.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=goldenark&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "captainventure",
+    "name": "Captain Gold",
+    "provider": "Novomatic",
+    "gameName": "captainventure",
+    "icon": "https://p247.live/flash/icons/novomaticV2/captainventure.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=captainventure&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "bookofradeluxe6",
+    "name": "Book of Ra Deluxe 6",
+    "provider": "Novomatic",
+    "gameName": "bookofradeluxe6",
+    "icon": "https://p247.live/flash/icons/novomaticV2/bookofradeluxe6.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=bookofradeluxe6&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "fairyqueen",
+    "name": "Fairy Queen",
+    "provider": "Novomatic",
+    "gameName": "fairyqueen",
+    "icon": "https://p247.live/flash/icons/novomaticV2/fairyqueen.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=fairyqueen&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "diamond7",
+    "name": "Diamond 7",
+    "provider": "Novomatic",
+    "gameName": "diamond7",
+    "icon": "https://p247.live/flash/icons/novomaticV2/diamond7.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=diamond7&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "fruitsandroyals",
+    "name": "Fruits And Royals",
+    "provider": "Novomatic",
+    "gameName": "fruitsandroyals",
+    "icon": "https://p247.live/flash/icons/novomaticV2/fruitsandroyals.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=fruitsandroyals&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "mysticsecrets",
+    "name": "Mystic Secrets",
+    "provider": "Novomatic",
+    "gameName": "mysticsecrets",
+    "icon": "https://p247.live/flash/icons/novomaticV2/mysticsecrets.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=mysticsecrets&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "gorilla",
+    "name": "Gorilla",
+    "provider": "Novomatic",
+    "gameName": "gorilla",
+    "icon": "https://p247.live/flash/icons/novomaticV2/gorilla.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=gorilla&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "orca",
+    "name": "Orca",
+    "provider": "Novomatic",
+    "gameName": "orca",
+    "icon": "https://p247.live/flash/icons/novomaticV2/orca.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=orca&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "columbusdeluxe",
+    "name": "Columbus Deluxe",
+    "provider": "Novomatic",
+    "gameName": "columbusdeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/columbusdeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=columbusdeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "justjewelsdeluxe",
+    "name": "Just Jewels Deluxe",
+    "provider": "Novomatic",
+    "gameName": "justjewelsdeluxe",
+    "icon": "https://p247.live/flash/icons/novomaticV2/justjewelsdeluxe.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=justjewelsdeluxe&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "roaringforties",
+    "name": "Roaring Forties",
+    "provider": "Novomatic",
+    "gameName": "roaringforties",
+    "icon": "https://p247.live/flash/icons/novomaticV2/roaringforties.jpg",
+    "demoUrl": "https://p247.live/novomatic-admin/launcher.html?operatorId=30950&userName=30951&sessionId=30951&gameName=roaringforties&mode=demo&closeUrl="
+  },
+  {
+    "nogsgameid": "DEMO MODE",
+    "name": "DEMO MODE",
+    "provider": "Novomatic",
+    "gameName": "DEMO MODE",
+    "icon": null,
+    "demoUrl": null
+  },
+  {
+    "nogsgameid": "http://148.251.131.194/api/launcher/opengame.html?operatorId=31054&playerId=null&sessionId=0&gameName=bookofraclassic&language=en&roomId=54&flashSwf=bookofraclassic/slot_10.swf",
+    "name": "http://148.251.131.194/api/launcher/opengame.html?operatorId=31054&playerId=null&sessionId=0&gameName=bookofraclassic&language=en&roomId=54&flashSwf=bookofraclassic/slot_10.swf",
+    "provider": "Novomatic",
+    "gameName": "http://148.251.131.194/api/launcher/opengame.html?operatorId=31054&playerId=null&sessionId=0&gameName=bookofraclassic&language=en&roomId=54&flashSwf=bookofraclassic/slot_10.swf",
+    "icon": null,
+    "demoUrl": null
+  }
+]
